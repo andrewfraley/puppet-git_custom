@@ -1,0 +1,14 @@
+{
+  "name": "afraley-git_custom",
+  "version": "0.1.0",
+  "author": "afraley",
+  "summary": "This installs git from source or from rpmforge",
+  "license": "Apache 2.0",
+  "source": "https://github.com/andrewfraley/puppet-git_custom",
+  "project_page": "https://github.com/andrewfraley/puppet-git_custom",
+  "issues_url": "https://github.com/andrewfraley/puppet-git_custom/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
